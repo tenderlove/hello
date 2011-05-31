@@ -46,5 +46,20 @@ On my system:
                    user     system      total        real
 prepared stmt 10.580000   0.330000  10.910000 ( 12.084159)
 execute        9.840000   0.280000  10.120000 ( 11.494407)
-[aaron@higgins hello (master)]$ 
+[aaron@higgins hello (master)]$ mysql --version
+mysql  Ver 14.14 Distrib 5.5.10, for osx10.6 (i386) using  EditLine wrapper
+[aaron@higgins hello (master)]$ mysql
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 380
+Server version: 5.5.10 Source distribution
+
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql>
   
